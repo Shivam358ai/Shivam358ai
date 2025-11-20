@@ -1,3 +1,8 @@
+*.js linguist-language=JavaScript
+*.py linguist-language=Python
+
+
+
 👋 Hi, I’m Shivam, a Web Developer who loves building clean, responsive, and efficient web experiences. I enjoy turning ideas into working interfaces and experimenting with new tools to improve my workflow.
 
 💻 Skill Level: Advanced
