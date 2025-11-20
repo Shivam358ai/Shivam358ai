@@ -1,12 +1,7 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&lines=Hello+World!;Welcome+to+my+GitHub;I+love+coding+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=600&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+I'm+%3CYour+Name%3E;Full-Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor" />
 </p>
-
-
-
-*.js linguist-language=JavaScript
-*.py linguist-language=Python
 
 
 
