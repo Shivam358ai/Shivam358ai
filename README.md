@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=600&lines=Hello+World!;Welcome+to+my+GitHub;I+love+coding+🚀" />
+</p>
+
+
+
 *.js linguist-language=JavaScript
 *.py linguist-language=Python
 
